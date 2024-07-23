@@ -1,0 +1,1 @@
+documenting ML journey throughout this sem 
